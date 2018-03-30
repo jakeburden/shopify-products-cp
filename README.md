@@ -64,7 +64,7 @@ $ npm install shopify-products-cp
 ```
 
 ## See Also
-- (shopify-pages-cp)[https://github.com/jekrb/shopify-pages-cp]
+- [shopify-pages-cp](https://github.com/jekrb/shopify-pages-cp)
 
 ## License
 
