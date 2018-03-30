@@ -1,0 +1,36 @@
+{
+  "name": "shopify-products-cp",
+  "version": "1.0.0",
+  "description": "Copy Shopify products from a source site to duplicate (sink) site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "shopify",
+    "api",
+    "copy",
+    "products",
+    "stream",
+    "export",
+    "import"
+  ],
+  "author": "Jake Burden <jake@doge.haus>",
+  "license": "MIT",
+  "dependencies": {
+    "JSONStream": "^1.3.2",
+    "hyperquest": "^2.1.3",
+    "through2": "^2.0.3"
+  },
+  "devDependencies": {
+    "env2": "^2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jekrb/shopify-products-cp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jekrb/shopify-products-cp/issues"
+  },
+  "homepage": "https://github.com/jekrb/shopify-products-cp#readme"
+}
